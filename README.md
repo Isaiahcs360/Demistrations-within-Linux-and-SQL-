@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Project consists of installing and uninstalling softwares within Linux via Advanced Package Tool (APT) and sudo within the Linux Bash shell. 
+Project consists of installing and uninstalling softwares (suricata and tcpdump), within Linux via Advanced Package Tool (APT) and sudo within the Linux Bash shell. 
 <br />
 
 
